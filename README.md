@@ -143,7 +143,7 @@ for response in responses:
 
 1. **Security**: API keys and user data are handled with utmost care, utilizing encryption and best security practices to protect your sensitive information.
    
-2. **Production Reliability**: zytron Models has undergone rigorous testing to ensure that it can handle high traffic and remains resilient in enterprise-grade environments.
+2. **Production Reliability**: Zytron Models has undergone rigorous testing to ensure that it can handle high traffic and remains resilient in enterprise-grade environments.
 
 3. **Fail-Safe Mechanisms**: Built-in failover handling to ensure uninterrupted service even under heavy load or network issues.
 
