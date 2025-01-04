@@ -147,7 +147,7 @@ for response in responses:
 
 3. **Fail-Safe Mechanisms**: Built-in failover handling to ensure uninterrupted service even under heavy load or network issues.
 
-4. **Unified API**: No more dealing with multiple SDKs or libraries. zytron Models standardizes your interactions across providers like OpenAI, Anthropic, Azure, and more, so you can focus on what matters.
+4. **Unified API**: No more dealing with multiple SDKs or libraries. Zytron Models standardizes your interactions across providers like OpenAI, Anthropic, Azure, and more, so you can focus on what matters.
 
 ---
 
