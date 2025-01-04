@@ -195,12 +195,3 @@ for response in responses:
 ## **License**
 
 Zytron Models is released under the MIT License
-
----
-
-
-# Todo
-
-- [ ] Add cohere models command r
-- [ ] Add gemini and google ai studio
-- [ ] Integrate ollama extensively
