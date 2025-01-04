@@ -8,11 +8,11 @@ Zytron Models provides a unified, secure, and highly scalable interface for inte
   
 - **Enterprise-Grade Security**: Built-in security protocols to protect your API keys and sensitive data, ensuring compliance with industry standards.
 
-- **Lightning-Fast Performance**: Optimized for low-latency and high-throughput, zytron Models delivers blazing-fast API responses, suitable for real-time applications.
+- **Lightning-Fast Performance**: Optimized for low-latency and high-throughput, Zytron Models delivers blazing-fast API responses, suitable for real-time applications.
 
 - **Ease of Use**: Simplified API interaction with intuitive `.run(task)` and `__call__` methods, making integration effortless.
 
-- **Scalability for All Use Cases**: Whether it's a small script or a massive enterprise-scale application, zytron Models scales effortlessly.
+- **Scalability for All Use Cases**: Whether it's a small script or a massive enterprise-scale application, Zytron Models scales effortlessly.
 
 - **Production-Grade Reliability**: Tested and proven in enterprise environments, ensuring consistent uptime and failover capabilities.
 
